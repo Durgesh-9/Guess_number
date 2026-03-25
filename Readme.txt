@@ -52,7 +52,6 @@ Any feedback or suggestions are welcome!
 
 ---
 ## 📸 Screenshot
-![Game ScreenShot] 
-
+![Game ScreenShot] (Game Result.png)
 
 ⭐ If you like this project, consider giving it a star!
